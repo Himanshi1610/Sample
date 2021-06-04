@@ -57,6 +57,8 @@ function draw() {
   bob5.display();
   
   keyPressed();
+
+  console.log("Sample text");
 }
 
 
